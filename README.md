@@ -1,2 +1,20 @@
-# novel-generator-final-manual
-道友执笔 - 网文大纲生成器。基于 AI 的网文写作助手，专为修仙/玄幻题材打造。根据市场流行趋势（凡人流、系统流等）一键生成百万字小说大纲、人设和剧情结构。
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1mn00sKXzD7bnO6KmmXcNJOmwK1fmrSKx
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
